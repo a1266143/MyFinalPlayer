@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out1.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\anim\\out1.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter1.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\anim\\enter1.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_local.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_local.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogfragment_menu.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\dialogfragment_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_fragment_online_listview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\listitem_fragment_online_listview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_online.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_online.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_album.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_album.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_localmusic.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_localmusic.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_fragment_local_listview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\listitem_fragment_local_listview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialogfragment_menu.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\listitem_dialogfragment_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footerview_localmusiclistview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\footerview_localmusiclistview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emptyview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\emptyview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\headerview_localmusiclistview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\headerview_localmusiclistview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_fragment_album.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\listitem_fragment_album.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_locallist.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\fragment_locallist.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_fragment_locallist_listview.xml",
+        "source": "F:\\AndroidStudioWorkSpace\\PPPPPP\\app\\src\\main\\res\\layout\\listitem_fragment_locallist_listview.xml"
+    }
+]
